@@ -1,6 +1,7 @@
+
 #!/usr/bin/env python3
 
-
+import tqdm
 import string
 import time
 import os
